@@ -55,7 +55,7 @@ Use **Settings → Launch at Login**. If macOS approval is required, use the men
 
 ## Contact support
 
-Support email: **{{SUPPORT_EMAIL}}**
+Support email: **ohucode@gmail.com**
 
 Include your app version, macOS version, Mac model, steps to reproduce the problem, and any error message. Hide personal information in screenshots. Do not send passwords, payment card details, or full purchase receipts.
 
