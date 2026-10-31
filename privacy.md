@@ -1,10 +1,10 @@
-[English](../privacy.md) · [한국어](../ko/privacy.md) · [日本語](../ja/privacy.md)
+English · [한국어](ko/privacy.md) · [日本語](ja/privacy.md)
 
 # Privacy Policy
 
-Effective date: {{EFFECTIVE_DATE}}
+Effective date: 2026-10-31
 
-**{{OPERATOR_NAME}}** (the “Operator”) handles information in connection with Desktop Fire and support inquiries as described below.
+**Daehyun Kim** (the “Operator”) handles information in connection with Desktop Fire and support inquiries as described below.
 
 ## 1. Information processed by the app
 
@@ -28,9 +28,9 @@ The Operator does not receive your payment card number or Apple Account password
 
 When you contact support by email, your sender email address, message, and any files you choose to attach are processed to investigate the issue and respond. Please avoid sending unnecessary personal information.
 
-Support inquiry information is retained for **{{SUPPORT_RETENTION_PERIOD}}** and deleted after its purpose has been fulfilled and the retention period has ended. Where retention is required by law, it is kept for the applicable reason and period.
+Support inquiry information is retained for inquiry handling and follow-up for **up to 90 days after the inquiry is resolved**, then deleted. Where retention is required by law, it is kept for the applicable reason and period.
 
-Support email service provider, processing location, and details of any processing abroad: **{{SUPPORT_EMAIL_PROVIDER_AND_PROCESSING_DETAILS}}**.
+Support inquiries are received and managed through Gmail, provided by Google. Your email address, message, and attachments may be stored and processed on Google’s servers outside your country of residence. For details, see [Google’s Privacy Policy](https://policies.google.com/privacy).
 
 Posts on GitHub Issues may be public and displayed with your GitHub account information. GitHub's handling of information is governed by the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
@@ -52,7 +52,7 @@ To request access to, correction or deletion of, or suspension of processing of 
 
 This page and its effective date will be updated if app features or information handling practices change. Where applicable law requires a separate notice, the required procedure will be followed.
 
-- Operator and privacy contact: **{{OPERATOR_NAME}}**
-- Email: **{{SUPPORT_EMAIL}}**
+- Operator and privacy contact: **Daehyun Kim**
+- Email: **ohucode+fire@gmail.com**
 
 [About Desktop Fire](index.md) · [Support](support.md)
