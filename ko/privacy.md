@@ -1,11 +1,10 @@
-
 [English](../privacy.md) · 한국어 · [日本語](../ja/privacy.md)
 
 # 개인정보 처리방침
 
-시행일: {{EFFECTIVE_DATE}}
+시행일: 2026-10-31
 
-운영자 **{{OPERATOR_NAME}}**(이하 “운영자”)는 모닥불(Desktop Fire) 앱과 지원 과정에서 정보를 다음과 같이 처리합니다.
+운영자 **Daehyun Kim**(이하 “운영자”)는 모닥불(Desktop Fire) 앱과 지원 과정에서 정보를 다음과 같이 처리합니다.
 
 ## 1. 앱 사용 중 처리하는 정보
 
@@ -29,9 +28,9 @@
 
 이메일로 문의하면 발신 이메일 주소, 문의 내용과 사용자가 직접 첨부한 파일을 문제 확인과 답변 목적으로 처리합니다. 불필요한 개인정보를 보내지 마세요.
 
-문의 정보의 보관 기간은 **{{SUPPORT_RETENTION_PERIOD}}**이며, 목적 달성 및 보관 기간 종료 후 삭제합니다. 법령에 따른 보관 의무가 있는 경우에는 해당 사유와 기간에 따라 보관합니다.
+문의 정보는 문의 처리 및 후속 대응을 위해 **문의 처리 완료 후 최대 90일간** 보관한 뒤 삭제합니다. 법령에 따른 보관 의무가 있는 경우에는 해당 사유와 기간에 따라 보관합니다.
 
-지원 이메일 서비스 제공자, 처리 위치 및 국외 처리 관련 사항: **{{SUPPORT_EMAIL_PROVIDER_AND_PROCESSING_DETAILS}}**.
+지원 문의는 Google이 제공하는 Gmail을 통해 수신하고 관리합니다. 이메일 주소, 문의 내용 및 첨부파일은 거주 국가 밖에 있는 Google 서버에 저장되거나 처리될 수 있습니다. 자세한 내용은 [Google 개인정보처리방침](https://policies.google.com/privacy?hl=ko)을 참고하세요.
 
 GitHub Issues에 남긴 글은 공개될 수 있으며 GitHub 계정 정보와 함께 표시됩니다. GitHub 이용에 따른 정보 처리는 [GitHub 개인정보 처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)에 따릅니다.
 
@@ -53,7 +52,7 @@ GitHub Issues에 남긴 글은 공개될 수 있으며 GitHub 계정 정보와 �
 
 앱 기능이나 정보 처리 방식이 변경되면 이 페이지와 시행일을 갱신합니다. 관련 법령에 따라 별도 고지가 필요한 경우 해당 절차를 따릅니다.
 
-- 운영자 및 개인정보 문의 담당자: **{{OPERATOR_NAME}}**
-- 연락처: **{{SUPPORT_EMAIL}}**
+- 운영자 및 개인정보 문의 담당자: **Daehyun Kim**
+- 연락처: **ohucode+fire@gmail.com**
 
 [모닥불 소개](index.md) · [이용 지원](support.md)
