@@ -55,4 +55,4 @@ GitHub Issues에 남긴 글은 공개될 수 있으며 GitHub 계정 정보와 �
 - 운영자 및 개인정보 문의 담당자: **Daehyun Kim**
 - 연락처: **ohucode+fire@gmail.com**
 
-[모닥불 소개](index.md) · [이용 지원](support.md)
+[모닥불 소개](README.md) · [이용 지원](support.md)
